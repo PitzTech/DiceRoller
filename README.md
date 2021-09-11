@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-   <img src="./.github/screenshot.png" alt="Suno Movies Demo">
+   <img src="./.github/screenshot.png" alt="Suno Movies Demo" height="500px">
 </p>
 
 <br>
